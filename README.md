@@ -4,10 +4,10 @@
   - location-based community wiki-like services, 
   - other things i.e. chrome extensions, reserved message for messenger app, VR space design
 - 🌱 I’m currently learning which tech stack will fit for simple wearable prj
-- 💞️ I’m looking to collaborate on ... galaxy watch?
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me: h.nam@kakao.com
 - My Skill lv: very low. 
-  - language: java, python, mysql
+  - language: java, python, mysql, swift
   - acquainted: kotlin, js
   - CS bachelor
 <!---
