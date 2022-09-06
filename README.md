@@ -13,7 +13,7 @@
   - project
     - Individual
       - Letter to Event: register letters in image to iOS standard calendar as events.
-        - iOS, UIKit, EventKit
+        - iOS, Vision, UIKit, EventKitUI
         - https://github.com/EuniceNam/NC2-Eunice-LetterToEvent
       - Coupon Calendar: manage digital coffee coupons.
         - iOS, SwiftUI
