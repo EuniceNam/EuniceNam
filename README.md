@@ -1,15 +1,42 @@
 - 👋 Hi, I’m @EuniceNam
 - 👀 I’m interested in 
-  - location & motion recognition of smart watches
-  - location-based community wiki-like services, 
+  - iOS app development
+    - health, productivity, lifestyle
   - other things i.e. chrome extensions, reserved message for messenger app, VR space design
-- 🌱 I’m currently learning which tech stack will fit for simple wearable prj
+- 🌱 I’m currently learning iOS app development (Swift, SwiftUI, UIKit, ...)
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me: h.nam@kakao.com
 - My Skill lv: very low. 
-  - language: java, python, mysql, swift
-  - acquainted: kotlin, js
+  - language: Swift, Java, Python, MySQL
   - CS bachelor
+- My Repositories
+  - project
+    - Individual
+      - Letter to Event: register letters in image to iOS standard calendar as events.
+        - iOS, UIKit, EventKit
+        - https://github.com/EuniceNam/NC2-Eunice-LetterToEvent
+      - Coupon Calendar: manage digital coffee coupons.
+        - iOS, SwiftUI
+        - https://github.com/EuniceNam/CouponCalendar
+    - Team
+      - Over the Rainbow: personal approachable remembrance space for passed away companion animals. 
+        - iOS, UIKit
+        - https://github.com/DeveloperAcademy-POSTECH/MC3-Team10-TenTen
+      - Meeting Parrots: help conducting a meeting efficiently by assigning roles
+        - iOS, SwiftUI
+        - https://github.com/DeveloperAcademy-POSTECH/MC2-Team15-MeetingNMusae
+      - U Can Touch: help seniors easily follow the instruction for the use of Kiosk in front of them.
+        - iOS, SwiftUI
+        - https://github.com/DeveloperAcademy-POSTECH/MC2-Team15-MeetingNMusae
+  - Group Study
+    - Individual clone coding 
+      - CCC-1st-Calculator-Eunice
+      - CCC-1st-AppStore-Eunice
+        - https://github.com/DeveloperAcademy-POSTECH/CCC-1st-AppStore-Eunice
+      - CCC-1st-Toss-Eunice, CCC-1st-Toss-Eunice-SwiftUI
+  - Productivity
+    - Reading excel files (python): to check format of the excel file
+      - https://github.com/EuniceNam/CheckFirstLinesOfExcelFilev3
 <!---
 EuniceNam/EuniceNam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
