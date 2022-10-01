@@ -35,6 +35,7 @@
       - CCC-1st-AppStore-Eunice
         - https://github.com/DeveloperAcademy-POSTECH/CCC-1st-AppStore-Eunice
       - CCC-1st-Toss-Eunice, CCC-1st-Toss-Eunice-SwiftUI
+        - https://github.com/DeveloperAcademy-POSTECH/CCC-1st-Toss-Eunice-SwiftUI/pulls
   - Productivity
     - Reading excel files (python): to check format of the excel file
       - https://github.com/EuniceNam/CheckFirstLinesOfExcelFilev3
