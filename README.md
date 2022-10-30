@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EuniceNam
+- 👋 Hi, I’m @EuniceNam (Hyorim Nam)
 - 👀 I’m interested in 
   - iOS app development
     - health, productivity, lifestyle
