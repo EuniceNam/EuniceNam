@@ -1,44 +1,50 @@
 - 👋 Hi, I’m @EuniceNam (Hyorim Nam)
 - 👀 I’m interested in 
   - iOS app development
+<!--
     - health, productivity, lifestyle
   - other things i.e. chrome extensions, reserved message for messenger app, VR space design
+-->
 - 🌱 I’m currently learning iOS app development (Swift, SwiftUI, UIKit, ...)
-- 💞️ I’m looking to collaborate on ... 
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: h.nam@kakao.com
 - My Skill lv: very low. 
   - language: Swift, Java, Python, MySQL
   - CS bachelor
 - My Repositories
   - project
-    - Individual
-      - Letter to Event: register letters in image to iOS standard calendar as events.
-        - iOS, Vision, UIKit, EventKitUI
-        - https://github.com/EuniceNam/NC2-Eunice-LetterToEvent
-      - Coupon Calendar: manage digital coffee coupons.
-        - iOS, SwiftUI
-        - https://github.com/EuniceNam/CouponCalendar
     - Team
+      - Get A Rock: help hobby bands to hold & participate in local communication events.
+        - iOS, UIKit, MapKit
+        - [GitHub Link](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
       - Over the Rainbow: personal approachable remembrance space for passed away companion animals. 
         - iOS, UIKit
-        - https://github.com/DeveloperAcademy-POSTECH/MC3-Team10-TenTen
+        - [GitHub Link](https://github.com/DeveloperAcademy-POSTECH/MC3-Team10-TenTen)
       - Meeting Parrots: help conducting a meeting efficiently by assigning roles
-        - iOS, SwiftUI
         - [AppStore Link](https://apps.apple.com/kr/app/%ED%9A%8C%EC%9D%98%ED%95%98%EB%8A%94-n%EB%AC%B4%EC%83%88/id1644482659?l=en) (Free) 
-        - https://github.com/DeveloperAcademy-POSTECH/MC2-Team15-MeetingNMusae
+        - iOS, SwiftUI
+        - [GitHub Link](https://github.com/DeveloperAcademy-POSTECH/MC2-Team15-MeetingNMusae)
       - U Can Touch: help seniors easily follow the instruction for the use of Kiosk in front of them.
         - iOS, SwiftUI
-        - https://github.com/DeveloperAcademy-POSTECH/MC2-Team15-MeetingNMusae
+        - [GitHub Link](https://github.com/DeveloperAcademy-POSTECH/Flint)
+    - Individual
+      - Letter to Event: register letters in image to iOS standard calendar as events.
+        - iOS, UIKit, Vision, EventKitUI
+        - [GitHub Link](https://github.com/EuniceNam/NC2-Eunice-LetterToEvent)
+      - Coupon Calendar: manage digital coffee coupons.
+        - iOS, SwiftUI
+        - [GitHub Link](https://github.com/EuniceNam/CouponCalendar)
   - Group Study
-    - Individual clone coding 
+    - Individual clone coding (iOS)
       - CCC-1st-Calculator-Eunice
       - CCC-1st-AppStore-Eunice
-        - https://github.com/DeveloperAcademy-POSTECH/CCC-1st-AppStore-Eunice
+        - [GitHub Link](https://github.com/DeveloperAcademy-POSTECH/CCC-1st-AppStore-Eunice)
       - CCC-1st-Toss-Eunice, CCC-1st-Toss-Eunice-SwiftUI
-        - https://github.com/DeveloperAcademy-POSTECH/CCC-1st-Toss-Eunice-SwiftUI/pulls
+        - [GitHub Link](https://github.com/DeveloperAcademy-POSTECH/CCC-1st-Toss-Eunice-SwiftUI/pulls)
   - Productivity
-    - Reading excel files (python): to check format of the excel file
-      - https://github.com/EuniceNam/CheckFirstLinesOfExcelFilev3
+    - Reading excel files: to check format of the excel file
+      - Python
+      - [GitHub Link](https://github.com/EuniceNam/CheckFirstLinesOfExcelFilev3)
 <!---
 EuniceNam/EuniceNam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
