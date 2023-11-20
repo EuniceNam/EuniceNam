@@ -9,7 +9,7 @@
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: h.nam@kakao.com
 - My Skill lv: very low. 
-  - language: Swift, Java, Python, MySQL
+  - language: Swift, Python, Java, MySQL
   - CS bachelor
 - My Repositories
   - project
@@ -21,7 +21,7 @@
         - iOS, UIKit
         - [GitHub Link](https://github.com/DeveloperAcademy-POSTECH/MC3-Team10-TenTen)
       - Meeting Parrots: help conducting a meeting efficiently by assigning roles
-        - [AppStore Link](https://apps.apple.com/kr/app/%ED%9A%8C%EC%9D%98%ED%95%98%EB%8A%94-n%EB%AC%B4%EC%83%88/id1644482659?l=en) (Free) 
+        - ~~[AppStore Link](https://apps.apple.com/kr/app/%ED%9A%8C%EC%9D%98%ED%95%98%EB%8A%94-n%EB%AC%B4%EC%83%88/id1644482659?l=en) (Free)~~ (Expired) 
         - iOS, SwiftUI
         - [GitHub Link](https://github.com/DeveloperAcademy-POSTECH/MC2-Team15-MeetingNMusae)
       - U Can Touch: help seniors easily follow the instruction for the use of Kiosk in front of them.
